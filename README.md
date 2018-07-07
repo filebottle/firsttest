@@ -9,6 +9,6 @@ New paragraph
   *of
   *items
 
-[This is a Link](google.com)
+[This is a Link](http://google.com)
 
 
